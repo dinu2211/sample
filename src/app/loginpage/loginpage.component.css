@@ -1,0 +1,61 @@
+.tp-card {
+   max-width: 400px;
+}
+
+.maindiv{
+	color: aquamarine;
+	background-color: azure;
+	text-align: center;
+	    height: 34px;
+
+}
+.onetab{
+	width: 100%;
+	  border: 1px solid red;
+    
+}
+
+
+.carddiv{
+	background: #3E5151;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #DECBA4, #3E5151);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #DECBA4, #3E5151); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 8px;
+    padding: 10px;
+    display:inline;
+float:left;
+    min-width: 30%;
+    max-width: 30%;
+    min-height: 150px;
+    max-height: 150px;
+    height: 150px;
+    padding: 10px;
+        margin-right: 6px;
+        margin-bottom:  6px;
+        margin-left: 6px;
+        margin-top: 6px;
+        
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
